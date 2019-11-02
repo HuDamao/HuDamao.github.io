@@ -5,9 +5,9 @@
   <subtitle>简简单单</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://hudamao.github.io/"/>
+  <link href="https://hudamao.github.io/"/>
   <updated>2019-10-28T13:32:39.956Z</updated>
-  <id>http://hudamao.github.io/</id>
+  <id>https://hudamao.github.io/</id>
   
   <author>
     <name>海岩</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://hudamao.github.io/2019/10/28/hello-world/"/>
-    <id>http://hudamao.github.io/2019/10/28/hello-world/</id>
+    <link href="https://hudamao.github.io/2019/10/28/hello-world/"/>
+    <id>https://hudamao.github.io/2019/10/28/hello-world/</id>
     <published>2019-10-28T13:32:39.956Z</published>
     <updated>2019-10-28T13:32:39.956Z</updated>
     
